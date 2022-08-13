@@ -22,4 +22,7 @@ URL swagger:http://localhost:5000/swagger-ui/#/
 (Please refer theatre Controller for the suitable endpoints for read and write scenarios)
 
 Database: Mysql database has been implemented
-Adding insert scripts for valid data under src/resources/data.sql. 
+Adding insert scripts for valid data under src/resources/data.sql -(export with structure and data inserts are included in this sql)
+
+For good data wise sample rest requests-sharing request bodies in src/resources/requests.txt for each of the endpoints in Postman.
+
